@@ -173,25 +173,6 @@ python scripts/insights.py          # Step 6 only
 
 ---
 
-## 📄 Resume Description
-
-```
-Financial Data Analysis & Expense Tracking System | Python · Excel · Power BI
-• Built an end-to-end financial analytics pipeline processing 240+ expense records 
-  across 10 categories and 2 years using Python (Pandas, NumPy, Matplotlib, Seaborn)
-• Designed automated data cleaning module handling missing values (median imputation),
-  duplicates, and derived feature engineering (Budget Variance, Savings Rate)
-• Developed 9 publication-quality visualizations including trend lines, heatmaps, 
-  and scenario comparison charts
-• Created a 5-sheet Excel workbook with dynamic formulas, conditional formatting, 
-  and embedded charts using openpyxl
-• Built a 6-page interactive Power BI dashboard with DAX measures, What-If 
-  parameter sliders, and drill-through budget heatmaps
-• Generated automated business insights identifying 6 over-budget categories and 
-  seasonal spending patterns, with actionable recommendations
-```
-
----
 
 ## 📚 References
 
